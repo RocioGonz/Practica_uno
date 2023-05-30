@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Enabled_oxd-icon bi-check oxd-checkbox-in_111cd0</name>
+   <tag></tag>
+   <elementGuidId>3cc11529-f4d9-49c2-8750-760f68e20960</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div[3]/div/div/div/div/label/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>01b2e7eb-43dc-4c2b-b87e-97ca6fa734b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-check oxd-checkbox-input-icon</value>
+      <webElementGuid>c6cd23f5-fa6c-47dd-a3c8-090021d3d7a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]/div[@class=&quot;oxd-table-card-cell-checkbox&quot;]/div[@class=&quot;oxd-checkbox-wrapper&quot;]/label[1]/span[@class=&quot;oxd-checkbox-input oxd-checkbox-input--active --label-right oxd-checkbox-input&quot;]/i[@class=&quot;oxd-icon bi-check oxd-checkbox-input-icon&quot;]</value>
+      <webElementGuid>82de5fe6-abaf-47e6-a0bb-6cd79c0d203c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div[3]/div/div/div/div/label/span/i</value>
+      <webElementGuid>c6270cf5-e80a-46b9-96b4-c20bb1e934fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/label/span/i</value>
+      <webElementGuid>f656021c-723e-4be5-bb95-04dfe1fa9ef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
